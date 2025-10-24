@@ -1,6 +1,6 @@
 # ViewSync - Synchronized Multi-Video Viewer
 
-A React-based web application that allows you to watch multiple YouTube videos simultaneously with synchronized playback controls, similar to ViewSync.com. Features cross-window synchronization, master control system, and shareable video setups.
+A React-based web application that allows you to watch multiple YouTube videos simultaneously with synchronized playback controls. Features cross-window synchronization, master control system, and shareable video setups.
 
 ## 🎥 Features
 
@@ -170,14 +170,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Inspired by [ViewSync.com](https://viewsync.com) and similar synchronized video platforms
 - YouTube Player API for video control capabilities
 - React community for excellent documentation and tools
+- BroadcastChannel API for cross-window communication
 
 ## 📞 Support
 
 If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/yourusername/viewsync/issues) page
+1. Check the [Issues](https://github.com/syedrazaalino/viewsync/issues) page
 2. Create a new issue with detailed description
 3. Include browser version and error messages
 
